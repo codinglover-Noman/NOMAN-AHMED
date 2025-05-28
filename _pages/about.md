@@ -1,6 +1,8 @@
 ---
 title: "Noman Ahmed / 罗曼"
 layout: home
+permalink: /
+author: noman
 author_profile: true
 location: "Guangzhou, China | South China University of Technology"
 ---
