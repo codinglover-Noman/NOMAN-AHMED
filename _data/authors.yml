@@ -1,18 +1,8 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+noman:
+  name: "Noman Ahmed / 罗曼"
+  avatar: "/assets/images/Weixin Image_20250329213856.jpg"
+  bio: "Master’s student at SCUT, working on AI for smart health and Alzheimer’s detection."
+  location: "Guangzhou, China"
+  email: "nomanahmed0118@gmail.com"
+  github: "codinglover-Noman"
+  scholar: "https://scholar.google.com/citations?user=XXXX"
