@@ -1,6 +1,6 @@
 ---
 title: "Noman Ahmed / 罗曼"
-layout: single
+layout: home
 permalink: /
 author: noman
 author_profile: true
