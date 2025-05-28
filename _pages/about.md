@@ -6,6 +6,7 @@ author: noman
 author_profile: true
 location: "Guangzhou, China | South China University of Technology"
 ---
+<img src="/assets/images/profile.jpg" alt="Noman Ahmed" width="180" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
 ### 🧑‍🎓 Profile
 - PhD Candidate, School of Future Technology  
