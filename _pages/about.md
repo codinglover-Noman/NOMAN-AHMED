@@ -1,11 +1,6 @@
 ---
-{% assign author = site.author %}
-<div class="author__avatar">
-  <img src="{{ base_path }}/{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
-</div>
-
 title: "Noman Ahmed / 罗曼"
-layout: home
+layout: single
 permalink: /
 author: noman
 author_profile: true
