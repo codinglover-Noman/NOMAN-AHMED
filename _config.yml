@@ -16,7 +16,7 @@ url                      : "https://codinglover-noman.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "https://codinglover-noman.github.io/assets/images/profile.jpg"  # ✅ correct path to your photo
+  avatar           : "assets/images/profile.jpg"  # ✅ correct path to your photo
   name             : "Noman Ahmed / 罗曼"
   bio              : "PhD Candidate at SCUT, researching AI for smart healthcare and Alzheimer’s detection"
   location         : "Guangzhou, China"
