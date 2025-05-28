@@ -1,5 +1,5 @@
 ---
-title: "Noman Ahmed / 罗曼"
+title: "Noman Ahmed (罗曼)"
 layout: single
 permalink: /
 author: noman
