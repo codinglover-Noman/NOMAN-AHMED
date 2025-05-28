@@ -1,4 +1,9 @@
 ---
+{% assign author = site.author %}
+<div class="author__avatar">
+  <img src="{{ base_path }}/{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+</div>
+
 title: "Noman Ahmed / 罗曼"
 layout: home
 permalink: /
@@ -70,6 +75,7 @@ I am broadly interested in the development of non-invasive, AI-driven systems fo
   South China University of Technology, China
 - **M.Sc. in Information & Communication Engineering**  
   South China University of Technology, 2021–2023
+  
 
 ---
 
