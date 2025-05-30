@@ -11,7 +11,7 @@ location: "Guangzhou, China | South China University of Technology"
 ### 🧑‍🎓 Profile
 - PhD Candidate, School of Future Technology  
   South China University of Technology (SCUT), China  
-- Supervisor: Prof. Jin Zhenpeng  
+- Supervisor: Prof. Jin Zhanpeng  
 - Email: nomanahmed0118@gmail.com  
 - GitHub: [@codinglover-Noman](https://github.com/codinglover-Noman)  
 - Google Scholar: [Link](https://scholar.google.com/citations?user=)  
